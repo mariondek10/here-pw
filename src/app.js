@@ -1,6 +1,6 @@
 import { users } from "./data.js";
 
-import User from "./User.js";
+import { User } from "./User.js";
 
 /* users.results.forEach((element) => {
   filelement.name;

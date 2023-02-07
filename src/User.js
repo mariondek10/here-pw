@@ -1,5 +1,5 @@
 import { users } from "./data.js";
-export class User {
+export default class User {
   constructor() {
     this.info = this.generateInfo();
     this.presence = false;
